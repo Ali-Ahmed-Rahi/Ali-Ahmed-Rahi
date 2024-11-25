@@ -1,8 +1,8 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+
 <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+## <p align="center">:chart_with_upwards_trend: Current Stats</p>
 
 <br />
 <p align="center">
@@ -28,6 +28,7 @@
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
 <p align="center">
@@ -36,7 +37,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-## :eyes: Current overview
+## <p align="center">:eyes: Current overview</p>
 
 
 
