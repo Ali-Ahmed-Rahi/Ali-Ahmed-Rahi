@@ -2,7 +2,7 @@
 <img width="100%" src="https://media.istockphoto.com/id/1136829806/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=wB6hinX448B_fLDEGKubgkeVyX6ijVLQQ_Gz_kSqQUg=" />
 </a>
 
-## <p align="center">:chart_with_upwards_trend: Current Stats</p>
+## <p align="center">:chart_with_upwards_trend: Performance Metrics</p>
 
 <br />
 <p align="center">
@@ -17,7 +17,7 @@
 
 <br />
 
-## <p align="center">:computer: Technologies that I know</p>
+## <p align="center">:computer: Technologies I Am Proficient In</p>
 
 <br>
 <p align="center">
@@ -37,7 +37,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-## <p align="center">:eyes: Current overview</p>
+## <p align="center">📊 Current Expertise Overview</p>
 
 
 
