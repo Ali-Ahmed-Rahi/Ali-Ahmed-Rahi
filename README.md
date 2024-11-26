@@ -1,5 +1,5 @@
 
-<img width="100%" src="./image/Pink & Blue Futuristic Gaming Channel Youtube Intro.mp4" />
+<source width="100%" src="./image/Pink & Blue Futuristic Gaming Channel Youtube Intro.mp4" />
 </a>
 
 ## <p align="center">:chart_with_upwards_trend: Performance Metrics</p>
