@@ -1,5 +1,5 @@
 
-<img width="100%" src="./image/Untitled design.png" />
+<img width="100%" src="./image/DALL·E 2024-12-05 20.47.50 - A modern and sleek GitHub banner design featuring technology icons such as a code bracket, computer chip, cloud, and circuit board pattern. The backgr.jpg" />
 
 
 ## <p align="center">:chart_with_upwards_trend: Performance Metrics</p>
